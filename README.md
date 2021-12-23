@@ -16,6 +16,7 @@ Note: Our post/reviews are from google/ApartmentRatings/Reddit/yelp
 
 Algorithms:
 Step 1: find residents’ reviews and developers’ post for each apartment
+
 Step 2: Visualize negative and positive emotions frequency for zip 90005, and find 10 most frequent words for 90005.
 
 Our dataset include reviews from following apartments:
@@ -37,6 +38,9 @@ Windsor terrace
 2nd task 
 Data is from Datafinity
 Step 1: clean data: delete rows with 50% missing values and replace missing values with info from closed houses (add some data visualizations)
+
 Step 2: create columns of occupancy and calculate occupancy rate
+
 Step 3: Split training and test data and predict prices ranges with linear regression twice
+
 

@@ -35,6 +35,7 @@ Windsor terrace
 
 
 Algorithms:
+
 Step 1: find residents’ reviews and developers’ post for each apartment
 
 Step 2: Visualize negative and positive emotions frequency for zip 90005, and find 10 most frequent words for 90005.
